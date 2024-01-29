@@ -1,0 +1,52 @@
+h1{ 
+    color: white; text-align: center;
+}
+.img_{
+    float: right;margin: px; text-align: left;margin: 29px;
+    float: right; /* o float: right; */
+
+}
+p{
+
+    float: left ;margin: 90px; text-align: justify;margin: 31px;
+    width: 510px; 
+    float: left; /* o float: right; */
+}
+
+    .cr7{
+        float: right;margin: 10px; text-align: left;margin: 29px;
+     
+        }
+    .texto_{
+    float: left ;margin: 90px; text-align: justify;margin: 31px;
+    width: 510px; margin: 1;
+   
+    }
+    .espacio{
+        margin-right: 50p;
+    }
+.balon_{
+    float: left ;margin: 90px; text-align: justify;margin: 31px;
+    float: right;margin: px;
+}
+  .mima{
+    float: right;
+    margin-right: -430px;
+}
+
+textarea{
+    background-color: rgb(47, 47, 239);
+}
+button{
+    background-color: rgb(47, 47, 239);
+    
+}
+
+body { background-image: url("/img/ti.jpg"); 
+    background-size: cover;
+    background-repeat: repeat;
+    
+    background-position: center -380px;
+    background-size: cover
+
+     }
